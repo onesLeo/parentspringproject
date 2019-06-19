@@ -10,5 +10,5 @@ actually it's easy to run the project
 
 ### NOTE
 
-> --> **cloudsclientservice01** in the url is from **spring.application.name** in the **cloudserverclientservice/main/resources/bootstrap.yml 
+> --> **cloudsclientservice01** in the url is from **spring.application.name** in the **cloudserverclientservice/main/resources/bootstrap.yml** 
 > --> **dev / default** is from datasource properties either **application-dev** or **application** 
